@@ -1,0 +1,23 @@
+{
+  "name": "asyada-bes-turk-rotasi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Adil Hikmet Bey'in Asya'da Beş Türk hatıratına göre 1914-1921 yolculuğunun etkileşimli haritası ve durak listesi.",
+  "scripts": {
+    "validate": "node tools/validate.js",
+    "export": "node tools/export.js",
+    "check": "node tools/validate.js && node tools/export.js",
+    "geo:fetch": "node tools/fetch-ne.js",
+    "geo:build": "node tools/build-geo.js",
+    "serve": "python3 -m http.server 8000"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "topojson-client": "^3.1.0",
+    "topojson-server": "^3.0.1",
+    "topojson-simplify": "^3.0.3",
+    "world-atlas": "^2.0.2"
+  }
+}

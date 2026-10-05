@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Adil Hikmet Bey'in Asya'da Beş Türk hatıratına göre 1914-1921 yolculuğunun durakları, geçitleri ve tarihleri.">
+<title>Asya'da Beş Türk Rotası</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="eyebrow"><span>Adil Hikmet Bey'in hatıratına göre · 1914–1921</span></div>
+  <h1>Asya'da Beş Türk rotası</h1>
+  <div class="fleuron" aria-hidden="true">❦</div>
+  <p class="lede">İzmir'den Bombay'a deniz yoluyla, Hindukuş ve Pamir geçitleri üzerinden Kaşgar'a, Rus esaretinde Yedisu'ya, oradan Taklamakan ve Şanghay üzerinden Hamburg ve İstanbul'a. Metinde adı geçen her yer, metindeki sırasıyla ve tarihleriyle.</p>
+  <div class="facts" id="facts"></div>
+</header>
+
+<section class="mapgrid" aria-label="Harita">
+  <div style="display:flex;flex-direction:column;gap:10px;min-width:0">
+    <div class="controls" role="group" aria-label="Harita görünümü">
+      <span class="lbl">Görünüm</span>
+      <button data-view="all" aria-pressed="true">Tüm yolculuk</button>
+      <button data-view="sea">Deniz yolu</button>
+      <button data-view="passes">Hindukuş ve Pamir</button>
+      <button data-view="captive">Kaşgar ve Yedisu</button>
+      <button data-view="exit">Doğu Türkistan çıkışı</button>
+      <button data-view="return">Dönüş</button>
+    </div>
+    <div class="controls" role="group" aria-label="Altlık">
+      <span class="lbl">Altlık</span>
+      <button data-base="eski" aria-pressed="true">Eski harita</button>
+      <button data-base="uydu" aria-pressed="false">Uydu görüntüsü</button>
+      <button data-base="canli" aria-pressed="false">Canlı uydu (NASA)</button>
+      <button data-base="topo" aria-pressed="false">Yükselti</button>
+    </div>
+    <div class="controls" role="group" aria-label="Katmanlar">
+      <span class="lbl">Katman</span>
+      <button id="t-b1" aria-pressed="true">Emrullah Bey kolu</button>
+      <button id="t-b2" aria-pressed="true">Selim Sami ve İbrahim kolu</button>
+      <button id="t-hydro" aria-pressed="true">Nehir ve göller</button>
+      <button id="t-borders" aria-pressed="false">Günümüz sınırları</button>
+    </div>
+    <div class="mapbox">
+      <div id="map" role="region" aria-label="Beş Türk'ün 1914–1921 güzergâhı harita üzerinde"></div>
+      <div class="cartouche" aria-hidden="true"><b>Beş Türk'ün Yolu</b><span>İzmir'den Kaşgar'a, Kaşgar'dan İstanbul'a</span></div>
+      <svg class="compass" viewBox="-50 -50 100 100" aria-hidden="true">
+        <circle r="30" class="c1"/><circle r="24" class="c2"/>
+        <path class="p2" d="M0,-40L5,0L0,40L-5,0Z" transform="rotate(45)"/><path class="p2" d="M0,-40L5,0L0,40L-5,0Z" transform="rotate(-45)"/>
+        <path class="p1" d="M0,-46L7,0L0,46L-7,0Z"/><path class="p1" d="M-46,0L0,-7L46,0L0,7Z"/>
+        <path class="pn" d="M0,-46L7,0H-7Z"/><circle r="3" class="c3"/>
+        <text y="-34" x="0" text-anchor="middle" dy="-14">K</text>
+      </svg>
+      <div class="livenote" id="livenote" hidden></div>
+      <div class="zoomer"><button id="zin" aria-label="Yakınlaştır">+</button><button id="zout" aria-label="Uzaklaştır">−</button></div>
+      <div class="scalenote">Sürükleyin, tekerlek veya iki parmakla yakınlaştırın. Çizgiler duraklar arasını düz bağlar; gerçek yollar daha uzundur.</div>
+    </div>
+    <div class="legend" id="legend"></div>
+  </div>
+  <aside class="detail" id="detail" aria-live="polite"></aside>
+</section>
+
+<section style="display:flex;flex-direction:column;gap:6px">
+  <div class="listhead">
+    <div style="display:flex;flex-direction:column;gap:4px"><h3>Sıralı durak listesi</h3><h2>Gidiş, esaret, çıkış ve dönüş</h2></div>
+    <div class="controls" role="group" aria-label="Liste filtresi">
+      <span class="lbl">Göster</span>
+      <button data-filter="all" aria-pressed="true">Tümü</button>
+      <button data-filter="gecit" aria-pressed="false">Geçit ve boğazlar</button>
+      <button data-filter="liman" aria-pressed="false">Limanlar</button>
+      <button data-filter="belirsiz" aria-pressed="false">Konumu belirsiz</button>
+      <button id="copycsv">CSV kopyala</button>
+      <span class="toast" id="toast" role="status"></span>
+    </div>
+  </div>
+  <div id="list"></div>
+</section>
+
+<section class="notes" aria-label="Notlar">
+  <div class="note">
+    <h3>Takvim notu</h3>
+    <p>Metin Rumi tarih verir. 1917'ye kadar Rumi tarihe 13 gün eklenerek Miladi tarih bulunur. 1917'de Osmanlı Rumi takvimin gün ve aylarını Miladi ile eşitledi (16 Şubat 1332'nin ertesi günü 1 Mart 1333 oldu). Bu yüzden 1336 ve 1337 yıllarına ait tarihlerde gün farkı yoktur. Metni hazırlayan bu tarihlere de 13 gün eklemiş; aşağıda düzeltilmiş halleri var.</p>
+    <table class="conv"><thead><tr><th>Rumi</th><th>Metinde</th><th>Doğrusu</th></tr></thead><tbody>
+      <tr><td class="mono">31 Mart 1336</td><td class="mono">13 Nis 1920</td><td class="mono">31 Mar 1920</td></tr>
+      <tr><td class="mono">1 Nisan 1336</td><td class="mono">14 Nis 1920</td><td class="mono">1 Nis 1920</td></tr>
+      <tr><td class="mono">10 Mart 1337</td><td class="mono">23 Mar 1921</td><td class="mono">10 Mar 1921</td></tr>
+    </tbody></table>
+  </div>
+  <div class="note">
+    <h3>Mesafe ve süre</h3>
+    <p>Her durakta bir önceki duraktan kuş uçuşu mesafe ve tahmini yol süresi yazılı. Süreler üç türlü: <b>metinden</b> (iki tarih arasından hesaplandı), <b>tahmin</b> (dönemin vapur, tren ve kervan hızından kestirildi) ve <b>bilinmiyor</b>. Peşaver ile Yenihisar arasındaki iki ay gibi metinde toplamı verilen süreler ara duraklara mesafe ve araziye göre paylaştırıldı.</p>
+  </div>
+  <div class="note">
+    <h3>Konum güveni</h3>
+    <ul>
+      <li><span class="tag c-kesin">Kesin</span> Bugün de aynı adla bilinen yer; koordinat güvenilir.</li>
+      <li><span class="tag c-yaklasik">Yaklaşık</span> Tanımlama güçlü, nokta bir vadi, geçit veya bölge içinde yaklaşık.</li>
+      <li><span class="tag c-belirsiz">Belirsiz</span> Metindeki ad tam eşleşmedi; konum tahmindir ve gerekçesi kartta yazılı.</li>
+      <li><span class="tag c-cikarim">Çıkarım</span> Metinde adı geçmiyor ama güzergâh gereği geçilmiş olmalı. Listede ayrıca işaretli.</li>
+    </ul>
+  </div>
+  <div class="note">
+    <h3>Kaynaklar</h3>
+    <ul>
+      <li>Rota ve tarihler: <i>Asya'da Beş Türk</i> üzerine yazılmış değerlendirme metni (bölüm 5.2), Adil Hikmet Bey, <i>Asya'da Beş Türk</i>, haz. Yusuf Gedikli, Ötüken Neşriyat. Hatırat ilk kez 1928'de Cumhuriyet gazetesinde tefrika edildi.</li>
+      <li>Çıkış tarihi ve ekip: Saparaliyev, <a href="https://makale.isam.org.tr/bitstreams/90e356ff-b026-4186-ba6c-2d0df9ddcff8/download">XVII. Türk Tarih Kongresi bildirisi</a>.</li>
+      <li>Şubat 1915 Kaşgar kaydı: <a href="https://www.jadidonline.com/node/1000">Jadid Online, Sykes ve Kaşgar</a>.</li>
+      <li>Koordinatlar: günümüz yer adlarından tarafımca belirlendi. Harita verisi: Natural Earth (kamu malı).</li>
+      <li>Uydu görüntüsü: Esri World Imagery. Canlı uydu: NASA GIBS, VIIRS günlük gerçek renk görüntüsü. Yükselti: OpenTopoMap. Durak görselleri: Wikipedia ve Wikimedia Commons, her görselin altında yazarı ve lisansı ile.</li>
+    </ul>
+  </div>
+</section>
+</div>
+
+<!-- Yükleme sırası önemli: geo ve kütüphaneler (Leaflet, topojson), sonra veri, en son uygulama -->
+<script src="data/geo.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

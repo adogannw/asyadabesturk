@@ -1,0 +1,9 @@
+# Bağımlılıklar ve indirilen ham harita verisi (npm run geo:fetch ile yeniden indirilir)
+node_modules/
+tools/src/
+
+# Yerel düzenleyici ve araç dosyaları
+.vscode/
+.idea/
+*.log
+.DS_Store

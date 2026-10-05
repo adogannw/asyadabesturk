@@ -1,0 +1,2478 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.14,
+     38.42
+    ]
+   },
+   "properties": {
+    "sira": 1,
+    "ad": "İzmir",
+    "gunumuz": "İzmir",
+    "tur": "Liman",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hazırlık ve deniz yolu",
+    "miladi": "14 Haz 1914 · 23 Haz 1914 · 22 Tem 1914",
+    "rumi": "1 Haziran 1330 · 10 Haziran 1330 · 9 Temmuz 1330",
+    "duzeltme": null,
+    "olay": "Selim Sami'den 1769 sayılı telgraf gelir (14 Haz). Adil Hikmet kolordusuyla ilişiğini keser (23 Haz). Grup tüccar kılığında Karadeniz vapuruna biner (22 Tem). Saparaliyev de çıkış tarihini 22 Temmuz 1914 verir.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/%C4%B0zmir"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.5,
+     33.9
+    ]
+   },
+   "properties": {
+    "sira": 2,
+    "ad": "Beyrut",
+    "gunumuz": "Beyrut, Lübnan",
+    "tur": "Liman",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hazırlık ve deniz yolu",
+    "miladi": "Temmuz 1914",
+    "rumi": "Temmuz 1330",
+    "duzeltme": null,
+    "olay": "Vapurun ilk uğrak limanı.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Beyrut"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.3,
+     31.26
+    ]
+   },
+   "properties": {
+    "sira": 3,
+    "ad": "Port Said",
+    "gunumuz": "Port Said, Mısır",
+    "tur": "Liman",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hazırlık ve deniz yolu",
+    "miladi": "Temmuz 1914",
+    "rumi": "Temmuz 1330",
+    "duzeltme": null,
+    "olay": "Süveyş Kanalı'nın Akdeniz girişi.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Port_Said"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.55,
+     29.97
+    ]
+   },
+   "properties": {
+    "sira": 4,
+    "ad": "Süveyş Kanalı",
+    "gunumuz": "Süveyş, Mısır",
+    "tur": "Boğaz / kanal",
+    "guven": "Çıkarım",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hazırlık ve deniz yolu",
+    "miladi": "Temmuz 1914",
+    "rumi": null,
+    "duzeltme": null,
+    "olay": "Metinde adı geçmez. Port Said'den Kızıldeniz'e geçmenin tek yolu kanal olduğu için listeye çıkarım olarak eklendi.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/S%C3%BCvey%C5%9F_Kanal%C4%B1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39.18,
+     21.49
+    ]
+   },
+   "properties": {
+    "sira": 5,
+    "ad": "Cidde",
+    "gunumuz": "Cidde, Suudi Arabistan",
+    "tur": "Liman",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hazırlık ve deniz yolu",
+    "miladi": "Temmuz 1914",
+    "rumi": "Temmuz 1330",
+    "duzeltme": null,
+    "olay": "Kızıldeniz'de uğrak limanı.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Cidde"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     42.95,
+     14.8
+    ]
+   },
+   "properties": {
+    "sira": 6,
+    "ad": "Hudeyde",
+    "gunumuz": "Hudeyde (Al Hudaydah), Yemen",
+    "tur": "Liman",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hazırlık ve deniz yolu",
+    "miladi": "4 Ağu 1914",
+    "rumi": "22 Temmuz 1330",
+    "duzeltme": null,
+    "olay": "Osmanlı topraklarındaki son liman. Grup buradan ayrılır.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/El-Hudeyde"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.33,
+     12.58
+    ]
+   },
+   "properties": {
+    "sira": 7,
+    "ad": "Babülmendeb",
+    "gunumuz": "Bab-el-Mandeb Boğazı",
+    "tur": "Boğaz / kanal",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hazırlık ve deniz yolu",
+    "miladi": "Ağustos 1914",
+    "rumi": "Temmuz–Ağustos 1330",
+    "duzeltme": null,
+    "olay": "Kızıldeniz'den Aden Körfezi ve Hint denizine çıkış.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Bab%C3%BClmendep_Bo%C4%9Faz%C4%B1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.84,
+     18.94
+    ]
+   },
+   "properties": {
+    "sira": 8,
+    "ad": "Bombay",
+    "gunumuz": "Mumbai, Hindistan",
+    "tur": "Liman",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hazırlık ve deniz yolu",
+    "miladi": "Ağustos 1914",
+    "rumi": "Ağustos 1330",
+    "duzeltme": null,
+    "olay": "Dünya Savaşı başlamıştır, Osmanlı henüz girmemiştir. Grup limanda ve şehirde gözaltına alınır, İngilizler peşlerine casus takar. Türk şehbenderliğinden pasaport çıkarırlar. Hint İstiklal Komitesi yardım eder; editöre göre Adil Bey bundan hiç söz etmez.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Mumbai"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     71.58,
+     34.01
+    ]
+   },
+   "properties": {
+    "sira": 9,
+    "ad": "Peşaver",
+    "gunumuz": "Peshawar, Pakistan",
+    "tur": "Şehir / yerleşim",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hindistan'dan Pamir'e",
+    "miladi": "Ağu–Eyl 1914",
+    "rumi": "Ağustos–Eylül 1330",
+    "duzeltme": null,
+    "olay": "Kara yolculuğunun ilk durağı. Metindeki sıra: Peşaver, Lahor, tekrar Lahor ve Peşaver.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Pe%C5%9Faver"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     74.34,
+     31.55
+    ]
+   },
+   "properties": {
+    "sira": 10,
+    "ad": "Lahor",
+    "gunumuz": "Lahore, Pakistan",
+    "tur": "Şehir / yerleşim",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hindistan'dan Pamir'e",
+    "miladi": "Eylül 1914",
+    "rumi": "Eylül 1330",
+    "duzeltme": null,
+    "olay": "İki kez uğranır. Huddam-ı Kâbe çevresinden yardım görülen yerlerden biri olması muhtemel; metin ayrıntı vermez.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Lahor"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     71.58,
+     34.01
+    ]
+   },
+   "properties": {
+    "sira": 11,
+    "ad": "Peşaver (ikinci kez)",
+    "gunumuz": "Peshawar, Pakistan",
+    "tur": "Şehir / yerleşim",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hindistan'dan Pamir'e",
+    "miladi": "15 Eyl 1914",
+    "rumi": "2 Eylül 1330",
+    "duzeltme": null,
+    "olay": "Asıl yürüyüş buradan başlar. Peşaver'den Yenihisar'a yolculuk tam iki ay sürer.",
+    "ikinci_ziyaret": true,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Pe%C5%9Faver"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     71.93,
+     34.565
+    ]
+   },
+   "properties": {
+    "sira": 12,
+    "ad": "Melkend",
+    "gunumuz": "Malakand Geçidi, Pakistan",
+    "tur": "Geçit",
+    "guven": "Yaklaşık",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hindistan'dan Pamir'e",
+    "miladi": "Eylül 1914",
+    "rumi": "Eylül 1330",
+    "duzeltme": null,
+    "olay": "Peşaver ovasından Swat ve Dir'e açılan geçit. Metindeki Melkend, Malakand'ın okunuşu olarak alındı.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://en.wikipedia.org/wiki/Malakand_Pass"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     71.876,
+     35.205
+    ]
+   },
+   "properties": {
+    "sira": 13,
+    "ad": "Dir",
+    "gunumuz": "Dir, Pakistan",
+    "tur": "Şehir / yerleşim",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hindistan'dan Pamir'e",
+    "miladi": "Eylül 1914",
+    "rumi": "Eylül 1330",
+    "duzeltme": null,
+    "olay": "Dir hanlığının merkezi. Editöre göre buradan sonraki yerler Keşmir'in batısındadır.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://en.wikipedia.org/wiki/Dir_(city)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     71.83,
+     35.29
+    ]
+   },
+   "properties": {
+    "sira": 14,
+    "ad": "Ziyaret",
+    "gunumuz": "Dir–Çitral yolu (tam yeri bilinmiyor)",
+    "tur": "Şehir / yerleşim",
+    "guven": "Belirsiz",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hindistan'dan Pamir'e",
+    "miladi": "Eylül 1914",
+    "rumi": "Eylül 1330",
+    "duzeltme": null,
+    "olay": "Bölgede Ziarat adlı birçok türbe köyü var. Metindeki sıraya göre Dir ile Deruş arasında; nokta bu yol üzerinde tahminidir.",
+    "ikinci_ziyaret": false,
+    "wikipedia": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     71.8,
+     35.35
+    ]
+   },
+   "properties": {
+    "sira": 15,
+    "ad": "Lavari Geçidi",
+    "gunumuz": "Lowari Geçidi, Pakistan (3.118 m)",
+    "tur": "Geçit",
+    "guven": "Çıkarım",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hindistan'dan Pamir'e",
+    "miladi": "Eylül 1914",
+    "rumi": null,
+    "duzeltme": null,
+    "olay": "Metinde adı geçmez. Dir'den Deruş'a giden yol bu geçitten aşar; çıkarım olarak eklendi.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://en.wikipedia.org/wiki/Lowari_Pass"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     71.787,
+     35.563
+    ]
+   },
+   "properties": {
+    "sira": 16,
+    "ad": "Deruş",
+    "gunumuz": "Drosh, Pakistan",
+    "tur": "Şehir / yerleşim",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hindistan'dan Pamir'e",
+    "miladi": "Eyl–Eki 1914",
+    "rumi": "Eylül–Ekim 1330",
+    "duzeltme": null,
+    "olay": "Çitral vadisinin güney girişindeki kasaba.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://en.wikipedia.org/wiki/Drosh"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     71.786,
+     35.851
+    ]
+   },
+   "properties": {
+    "sira": 17,
+    "ad": "Çatral",
+    "gunumuz": "Chitral, Pakistan",
+    "tur": "Şehir / yerleşim",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hindistan'dan Pamir'e",
+    "miladi": "Eyl–Eki 1914",
+    "rumi": "Eylül–Ekim 1330",
+    "duzeltme": null,
+    "olay": "Çitral mehterliğinin merkezi.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/%C3%87itral"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     70.9,
+     36.93
+    ]
+   },
+   "properties": {
+    "sira": 18,
+    "ad": "Baharek",
+    "gunumuz": "Baharak, Bedahşan? (doğrulanamadı)",
+    "tur": "Şehir / yerleşim",
+    "guven": "Belirsiz",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hindistan'dan Pamir'e",
+    "miladi": "Ekim 1914",
+    "rumi": "Ekim 1330",
+    "duzeltme": null,
+    "olay": "En sorunlu tanımlama. Bilinen Baharak Afganistan Bedahşan'dadır; doğruysa grup Çitral'den Dorah geçidiyle Bedahşan'a geçip Vahan'a dönmüş olmalı. Çitral'den Vahan'a olağan yol ise Yarhun vadisi ve Barogil geçidinden geçer. Nokta bu belirsizlikle gösterildi.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://en.wikipedia.org/wiki/Baharak%2C_Afghanistan"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.47,
+     36.98
+    ]
+   },
+   "properties": {
+    "sira": 19,
+    "ad": "Serhadd-i Vahan",
+    "gunumuz": "Sarhad-e Wakhan, Afganistan",
+    "tur": "Şehir / yerleşim",
+    "guven": "Yaklaşık",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hindistan'dan Pamir'e",
+    "miladi": "Ekim 1914",
+    "rumi": "Ekim 1330",
+    "duzeltme": null,
+    "olay": "Vahan koridorunun doğu ucundaki son yerleşim. Pamir'e çıkışın kapısı.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarhad%2C_Afghanistan"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     74.49,
+     37.09
+    ]
+   },
+   "properties": {
+    "sira": 20,
+    "ad": "Tağ Tombaşbeli",
+    "gunumuz": "Tağdumbaş Pamiri geçidi, büyük olasılıkla Vahcir (Wakhjir), yaklaşık 4.900 m",
+    "tur": "Geçit",
+    "guven": "Yaklaşık",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hindistan'dan Pamir'e",
+    "miladi": "Eki–Kas 1914",
+    "rumi": "Ekim–Kasım 1330",
+    "duzeltme": null,
+    "olay": "'Bel' Türkçede geçit demektir: Tağdumbaş beli. Vahan'dan Tağdumbaş Pamiri'ne, yani Çin topraklarına inen geçit. Yolculuğun en yüksek noktası olması muhtemel.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Vahcir_Ge%C3%A7idi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     74.95,
+     37.25
+    ]
+   },
+   "properties": {
+    "sira": 21,
+    "ad": "Oy",
+    "gunumuz": "Tağdumbaş vadisi (tam yeri bilinmiyor)",
+    "tur": "Şehir / yerleşim",
+    "guven": "Belirsiz",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hindistan'dan Pamir'e",
+    "miladi": "Kasım 1914",
+    "rumi": "Kasım 1330",
+    "duzeltme": null,
+    "olay": "Geçit ile Tabdar arasında bir konak yeri olarak sıralanmış. Nokta vadide tahminidir.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://en.wikipedia.org/wiki/Taghdumbash_Pamir"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     75.1,
+     37.42
+    ]
+   },
+   "properties": {
+    "sira": 22,
+    "ad": "Tabdar",
+    "gunumuz": "Dafdar (Tafdar), Taşkurgan ilçesi",
+    "tur": "Şehir / yerleşim",
+    "guven": "Yaklaşık",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hindistan'dan Pamir'e",
+    "miladi": "Kasım 1914",
+    "rumi": "Kasım 1330",
+    "duzeltme": null,
+    "olay": "Tağdumbaş vadisindeki Dafdar köyü olarak tanımlandı.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://en.wikipedia.org/wiki/Dafdar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     75.227,
+     37.775
+    ]
+   },
+   "properties": {
+    "sira": 23,
+    "ad": "Taş Kurgan",
+    "gunumuz": "Taşkurgan, Sincan",
+    "tur": "Şehir / yerleşim",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hindistan'dan Pamir'e",
+    "miladi": "Kasım 1914",
+    "rumi": "Kasım 1330",
+    "duzeltme": null,
+    "olay": "Sarıkol'un merkezi ve eski kale. Grup Nisan 1915'te yakalandıktan sonra buraya geri getirilir.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Ta%C5%9Fkurgan"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     75.42,
+     38.06
+    ]
+   },
+   "properties": {
+    "sira": 24,
+    "ad": "Çiçeklibel",
+    "gunumuz": "Çiçeklik geçidi (Chichiklik)",
+    "tur": "Geçit",
+    "guven": "Yaklaşık",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hindistan'dan Pamir'e",
+    "miladi": "Kasım 1914",
+    "rumi": "Kasım 1330",
+    "duzeltme": null,
+    "olay": "Taşkurgan'dan Kaşgar ovasına inen eski yol üzerindeki yüksek yayla ve geçit. Aurel Stein de bu yolu kullanmıştı.",
+    "ikinci_ziyaret": false,
+    "wikipedia": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     75.75,
+     38.45
+    ]
+   },
+   "properties": {
+    "sira": 25,
+    "ad": "Kaşıkçıbeli",
+    "gunumuz": "Çiçeklik ile Yenihisar arasında bir geçit (doğrulanamadı)",
+    "tur": "Geçit",
+    "guven": "Belirsiz",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hindistan'dan Pamir'e",
+    "miladi": "Kasım 1914",
+    "rumi": "Kasım 1330",
+    "duzeltme": null,
+    "olay": "Adı haritalarda eşleşmedi. Sıraya göre Pamir'den ovaya inişteki son geçit; nokta tahminidir.",
+    "ikinci_ziyaret": false,
+    "wikipedia": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.17,
+     38.93
+    ]
+   },
+   "properties": {
+    "sira": 26,
+    "ad": "Yenihisar",
+    "gunumuz": "Yengisar (Yingjisha), Sincan",
+    "tur": "Şehir / yerleşim",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Hindistan'dan Pamir'e",
+    "miladi": "15 Kas 1914",
+    "rumi": "2 Teşrin-i Sani 1330",
+    "duzeltme": null,
+    "olay": "Doğu Türkistan'a ayak basılır. Heyet burada bir süre kalır.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Yengisar_%C4%B0l%C3%A7esi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     75.99,
+     39.47
+    ]
+   },
+   "properties": {
+    "sira": 27,
+    "ad": "Kaşgar",
+    "gunumuz": "Kaşgar, Sincan",
+    "tur": "Şehir / yerleşim",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Kaşgar",
+    "miladi": "Kasım 1914 – 14 Nis 1915",
+    "rumi": "1 Nisan 1331 (ayrılış)",
+    "duzeltme": null,
+    "olay": "Heyet ikiye bölünerek gelir, çeşitli kişilerle görüşüp halkı aydınlatmaya çalışır. 14 Nisan 1915'te Afganistan'a gitmek üzere ayrılır.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Ka%C5%9Fgar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     74.85,
+     37.45
+    ]
+   },
+   "properties": {
+    "sira": 28,
+    "ad": "Pamir (yakalanma yeri)",
+    "gunumuz": "Adı verilmemiş, Çin topraklarında",
+    "tur": "Bölge",
+    "guven": "Belirsiz",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Rus esareti",
+    "miladi": "27 Nis 1915",
+    "rumi": "14 Nisan 1331",
+    "duzeltme": null,
+    "olay": "Kalın kar üzerinde zorlukla ilerlerken Ruslar tarafından Çin topraklarında yakalanırlar. Afganistan yönüne gittikleri için Taşkurgan'ın güneyi varsayıldı.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Pamir_Da%C4%9Flar%C4%B1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     75.227,
+     37.775
+    ]
+   },
+   "properties": {
+    "sira": 29,
+    "ad": "Taş Kurgan (esir olarak)",
+    "gunumuz": "Taşkurgan, Sincan",
+    "tur": "Şehir / yerleşim",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Rus esareti",
+    "miladi": "Nisan 1915",
+    "rumi": "Nisan 1331",
+    "duzeltme": null,
+    "olay": "Yakalandıktan sonra buraya götürülürler.",
+    "ikinci_ziyaret": true,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Ta%C5%9Fkurgan"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     69.28,
+     41.31
+    ]
+   },
+   "properties": {
+    "sira": 30,
+    "ad": "Taşkent",
+    "gunumuz": "Taşkent, Özbekistan",
+    "tur": "Şehir / yerleşim",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Rus esareti",
+    "miladi": "Mayıs – 14 Haz/14 Tem 1915",
+    "rumi": "Haziran 1331 (hapisten çıkış)",
+    "duzeltme": null,
+    "olay": "İdam edilmek üzere sevk edilirler. Doğu Türkistan Türklerinin girişimleri ve Alman elçisi von Hintze sayesinde kurtulurlar. Taşkurgan'dan Taşkent'e güzergâh metinde yok.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Ta%C5%9Fkent"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.07,
+     45.12
+    ]
+   },
+   "properties": {
+    "sira": 31,
+    "ad": "Kapal",
+    "gunumuz": "Kapal, Kazakistan",
+    "tur": "Şehir / yerleşim",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Rus esareti",
+    "miladi": "Yaz 1915",
+    "rumi": "1331 yazı",
+    "duzeltme": null,
+    "olay": "Balkaş Gölü'nün güneydoğusunda. Kalebend (kale hapsi) olarak gönderilirler.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://en.wikipedia.org/wiki/Qapal"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.91,
+     45.41
+    ]
+   },
+   "properties": {
+    "sira": 32,
+    "ad": "Sarhan",
+    "gunumuz": "Sarkand, Kazakistan",
+    "tur": "Şehir / yerleşim",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Rus esareti",
+    "miladi": "14 Ağu 1916",
+    "rumi": "1 Ağustos 1332 (kaçış)",
+    "duzeltme": null,
+    "olay": "Kırgız ve Kazakların yaşadığı yer. 1 yıl 3 ay esaretten sonra buradan kaçarlar. Her yerde Tatar tüccar, öğretmen ve şairlerden iyi karşılık görürler.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarkand"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.32,
+     43.91
+    ]
+   },
+   "properties": {
+    "sira": 33,
+    "ad": "Kulca",
+    "gunumuz": "Gulca (Yining), Sincan",
+    "tur": "Şehir / yerleşim",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Kaçış ve Kırgız isyanı",
+    "miladi": "Ağu–Eyl 1916",
+    "rumi": "Ağustos–Eylül 1332",
+    "duzeltme": null,
+    "olay": "Bir ay kalıp izlerini kaybettirirler. Türkçü Tatar aydını Abdullah Bubi isyandaki Kırgızların başına geçmelerini önerir. Emrullah Bey Alman elçisiyle görüşmek üzere Pekin'e gönderilir.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Gulca"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.4,
+     42.85
+    ]
+   },
+   "properties": {
+    "sira": 34,
+    "ad": "Kırgız isyancılarına katılım",
+    "gunumuz": "Yeri verilmemiş; Tekes–Narınkol çevresi varsayıldı",
+    "tur": "Bölge",
+    "guven": "Belirsiz",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Kaçış ve Kırgız isyanı",
+    "miladi": "Kasım 1916 ortası",
+    "rumi": "Teşrin-i Sani 1332 ortası",
+    "duzeltme": null,
+    "olay": "Togan'a göre Kasım ortasında Kırgızlara katılıp isyanı idare ederler. Kuropatkin isyanı şiddetle bastırır. Not: Yedisu isyanının ana evresi bu tarihten önce sona ermişti.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://en.wikipedia.org/wiki/Tekes_County"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.96,
+     41.72
+    ]
+   },
+   "properties": {
+    "sira": 35,
+    "ad": "Kuçar",
+    "gunumuz": "Kuça (Kuqa), Sincan",
+    "tur": "Şehir / yerleşim",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Doğu Türkistan'dan çıkış",
+    "miladi": "1917 başı",
+    "rumi": "1333 başı",
+    "duzeltme": null,
+    "olay": "Dağlara çekildikten sonra gelinir. Ruslar onları Çinlilerden ister. Afgan kökenli İngiliz konsolosunun evinde bir süre saklanırlar.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Ku%C3%A7ar_%C4%B0l%C3%A7esi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.7,
+     39.4
+    ]
+   },
+   "properties": {
+    "sira": 36,
+    "ad": "Taklamakan çölü",
+    "gunumuz": "Taklamakan (Kuça–Hoten hattı)",
+    "tur": "Bölge",
+    "guven": "Yaklaşık",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Doğu Türkistan'dan çıkış",
+    "miladi": "1917",
+    "rumi": "1333",
+    "duzeltme": null,
+    "olay": "İzlerini kaybettirmek için çöl aşılır. Muhtemelen Hoten deryası yatağı boyunca; metin güzergâh vermez.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Taklamakan_%C3%87%C3%B6l%C3%BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.93,
+     37.11
+    ]
+   },
+   "properties": {
+    "sira": 37,
+    "ad": "Hoten",
+    "gunumuz": "Hoten (Hotan), Sincan",
+    "tur": "Şehir / yerleşim",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Doğu Türkistan'dan çıkış",
+    "miladi": "1917",
+    "rumi": "1333",
+    "duzeltme": null,
+    "olay": "Çin hükümeti onlardan şüphelenir. Pekin'deki Alman elçisinin girişimleri sürer; ancak Çin Mart 1917'de Almanya ile ilişkisini kesmiştir.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hotan"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.62,
+     43.83
+    ]
+   },
+   "properties": {
+    "sira": 38,
+    "ad": "Urumçi",
+    "gunumuz": "Urumçi, Sincan",
+    "tur": "Şehir / yerleşim",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Doğu Türkistan'dan çıkış",
+    "miladi": "1917–1918",
+    "rumi": "1333–1334",
+    "duzeltme": null,
+    "olay": "Şanghay'a gitme teklifini kabul ederler; bir süre burada kalırlar. Hoten'den buraya güzergâh metinde yok.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Urum%C3%A7i"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     93.02,
+     43.6
+    ]
+   },
+   "properties": {
+    "sira": 39,
+    "ad": "Barköl",
+    "gunumuz": "Barköl, Sincan",
+    "tur": "Şehir / yerleşim",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Doğu Türkistan'dan çıkış",
+    "miladi": "1918",
+    "rumi": "1334",
+    "duzeltme": null,
+    "olay": "Bir müddet kalınır. Doğu Türkistan'daki son durak.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://en.wikipedia.org/wiki/Barkol_Kazakh_Autonomous_County"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.47,
+     31.23
+    ]
+   },
+   "properties": {
+    "sira": 40,
+    "ad": "Şanghay",
+    "gunumuz": "Şanghay, Çin",
+    "tur": "Liman",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Doğu Türkistan'dan çıkış",
+    "miladi": "29 Haz 1918 – Nis 1920",
+    "rumi": null,
+    "duzeltme": null,
+    "olay": "Varışta yine İngiliz takibi. Almanya'nın yenilgisinden sonra Türk-Alman çıkarlarını izleyen Hollanda elçiliğinin yardımıyla rahat yaşarlar, Japonlarla sıkı ilişki kurarlar. Barköl'den buraya güzergâh metinde yok.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/%C5%9Eanghay"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.99,
+     53.55
+    ]
+   },
+   "properties": {
+    "sira": 41,
+    "ad": "Hamburg",
+    "gunumuz": "Hamburg, Almanya",
+    "tur": "Liman",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Dönüş",
+    "miladi": "1 Nis 1920",
+    "rumi": "1 Nisan 1336 (Şanghay'dan çıkış)",
+    "duzeltme": "Metinde 14 Nis 1920 yazıyor; 1917 sonrası Rumi tarihe gün eklenmez.",
+    "olay": "Adil Hikmet, Hüseyin Bey ve Tortumlu İsmail Abbas Japon vapuru İskotland Maru (Scotland Maru) ile gelir. Ara limanlar metinde yok.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Hamburg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.98,
+     41.01
+    ]
+   },
+   "properties": {
+    "sira": 42,
+    "ad": "İstanbul",
+    "gunumuz": "İstanbul",
+    "tur": "Liman",
+    "guven": "Kesin",
+    "kol": "Ana grup (Adil Hikmet)",
+    "evre": "Dönüş",
+    "miladi": "10 Mar 1921",
+    "rumi": "10 Mart 1337",
+    "duzeltme": "Metinde 23 Mar 1921 yazıyor.",
+    "olay": "Reşitpaşa vapuruyla dönecekken İngilizlerin onu yakalayacağını öğrenen Almanlar tarafından kaçırılır; İstanbul'a ancak bu tarihte dönebilir. Hamburg'dan güzergâh metinde yok.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/%C4%B0stanbul"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.4,
+     39.9
+    ]
+   },
+   "properties": {
+    "sira": 43,
+    "ad": "Pekin",
+    "gunumuz": "Pekin, Çin",
+    "tur": "Şehir / yerleşim",
+    "guven": "Kesin",
+    "kol": "Emrullah Bey",
+    "evre": "Kaçış ve Kırgız isyanı",
+    "miladi": "Sonbahar 1916",
+    "rumi": "1332 sonbaharı",
+    "duzeltme": null,
+    "olay": "Emrullah Bey Kulca'dan, Alman elçisiyle görüşüp yardım sağlamak için gönderilir. Güzergâh metinde yok.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Pekin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     69.17,
+     34.53
+    ]
+   },
+   "properties": {
+    "sira": 44,
+    "ad": "Afganistan",
+    "gunumuz": "Afganistan (Kâbil işaretlendi)",
+    "tur": "Bölge",
+    "guven": "Yaklaşık",
+    "kol": "Emrullah Bey",
+    "evre": "Dönüş",
+    "miladi": "1918–1919",
+    "rumi": "1334–1335",
+    "duzeltme": null,
+    "olay": "Emrullah Bey'in dönüş yolu. Pekin'den Afganistan'a nasıl geçtiği metinde yok.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/K%C3%A2bil"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     64.42,
+     39.77
+    ]
+   },
+   "properties": {
+    "sira": 45,
+    "ad": "Türkistan",
+    "gunumuz": "Batı Türkistan (Buhara işaretlendi)",
+    "tur": "Bölge",
+    "guven": "Belirsiz",
+    "kol": "Emrullah Bey",
+    "evre": "Dönüş",
+    "miladi": "1919",
+    "rumi": "1335",
+    "duzeltme": null,
+    "olay": "Metin yalnızca 'Türkistan' der; nokta temsilîdir.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Buhara"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     41.64,
+     41.64
+    ]
+   },
+   "properties": {
+    "sira": 46,
+    "ad": "Batum",
+    "gunumuz": "Batum, Gürcistan",
+    "tur": "Liman",
+    "guven": "Kesin",
+    "kol": "Emrullah Bey",
+    "evre": "Dönüş",
+    "miladi": "1919",
+    "rumi": "1335",
+    "duzeltme": null,
+    "olay": "Karadeniz'e çıkış.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Batum"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39.72,
+     41
+    ]
+   },
+   "properties": {
+    "sira": 47,
+    "ad": "Trabzon",
+    "gunumuz": "Trabzon",
+    "tur": "Liman",
+    "guven": "Kesin",
+    "kol": "Emrullah Bey",
+    "evre": "Dönüş",
+    "miladi": "1919",
+    "rumi": "1335",
+    "duzeltme": null,
+    "olay": "Son ara durak.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Trabzon"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.98,
+     41.01
+    ]
+   },
+   "properties": {
+    "sira": 48,
+    "ad": "İstanbul (Emrullah Bey)",
+    "gunumuz": "İstanbul",
+    "tur": "Liman",
+    "guven": "Kesin",
+    "kol": "Emrullah Bey",
+    "evre": "Dönüş",
+    "miladi": "19 Tem 1919",
+    "rumi": "19 Temmuz 1335",
+    "duzeltme": null,
+    "olay": "Emrullah Bey, gruptan önce İstanbul'a döner. 1917 sonrası olduğu için Rumi ve Miladi gün aynıdır.",
+    "ikinci_ziyaret": true,
+    "wikipedia": "https://tr.wikipedia.org/wiki/%C4%B0stanbul"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.65,
+     45.75
+    ]
+   },
+   "properties": {
+    "sira": 49,
+    "ad": "Mançurya",
+    "gunumuz": "Mançurya (Harbin işaretlendi)",
+    "tur": "Bölge",
+    "guven": "Yaklaşık",
+    "kol": "Selim Sami ve İbrahim Bey",
+    "evre": "Dönüş",
+    "miladi": "31 Mar 1920",
+    "rumi": "31 Mart 1336",
+    "duzeltme": "Metinde 13 Nis 1920 yazıyor.",
+    "olay": "Selim Sami ve İbrahim Bey, Japonların yardımıyla Şanghay'dan Mançurya yoluyla Rusya'ya geçer. Sonrası metinde yok. Saparaliyev'e göre Selim Sami 1927'de öldü.",
+    "ikinci_ziyaret": false,
+    "wikipedia": "https://tr.wikipedia.org/wiki/Harbin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      27.14,
+      38.42
+     ],
+     [
+      35.5,
+      33.9
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 1,
+    "kime": 2,
+    "tur": "deniz",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 903,
+    "tahmini_sure": "2–3 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "İzmir'den 22 Temmuz'da çıkan vapur 4 Ağustos'ta Hudeyde'dedir: beş ayak ve liman beklemeleri toplam 13 gün (metinden). Bu ayak vapur hızıyla 2–3 gün."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      35.5,
+      33.9
+     ],
+     [
+      32.3,
+      31.26
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 2,
+    "kime": 3,
+    "tur": "deniz",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 420,
+    "tahmini_sure": "1 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Kısa bir kıyı ayağı. İzmir–Hudeyde arasının toplam 13 gün sürdüğü metinden biliniyor."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      32.3,
+      31.26
+     ],
+     [
+      32.55,
+      29.97
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 3,
+    "kime": 4,
+    "tur": "deniz",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 145,
+    "tahmini_sure": "1 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "1914'te Süveyş Kanalı'ndan geçiş yaklaşık 15–18 saat sürüyordu."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      32.55,
+      29.97
+     ],
+     [
+      39.18,
+      21.49
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 4,
+    "kime": 5,
+    "tur": "deniz",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 1153,
+    "tahmini_sure": "2–3 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Kızıldeniz boyunca vapur hızıyla. İzmir–Hudeyde arası toplam 13 gün (metinden)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      39.18,
+      21.49
+     ],
+     [
+      42.95,
+      14.8
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 5,
+    "kime": 6,
+    "tur": "deniz",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 844,
+    "tahmini_sure": "2 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Cidde'den Hudeyde'ye; varış 22 Temmuz 1330 = 4 Ağustos 1914 (metinden)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      42.95,
+      14.8
+     ],
+     [
+      43.33,
+      12.58
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 6,
+    "kime": 7,
+    "tur": "deniz",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 250,
+    "tahmini_sure": "1 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Hudeyde'den boğaza kısa bir ayak."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      43.33,
+      12.58
+     ],
+     [
+      72.84,
+      18.94
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 7,
+    "kime": 8,
+    "tur": "deniz",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 3232,
+    "tahmini_sure": "7–9 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Arap Denizi'ni aşan en uzun deniz ayağı; Bombay'a Ağustos'ta varılır (metinden), gün verilmez."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      72.84,
+      18.94
+     ],
+     [
+      71.58,
+      34.01
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 8,
+    "kime": 9,
+    "tur": "güzergâh bilinmiyor",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 1680,
+    "tahmini_sure": "2–3 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Metin güzergâh vermez. Bombay'dan Peşaver'e demiryolu vardı; trenle 2–3 gün. Bombay'daki gözaltı süresi bilinmiyor."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      71.58,
+      34.01
+     ],
+     [
+      74.34,
+      31.55
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 9,
+    "kime": 10,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 376,
+    "tahmini_sure": "1 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Peşaver–Lahor arası demiryoluyla bir günlük yol."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      74.34,
+      31.55
+     ],
+     [
+      71.58,
+      34.01
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 10,
+    "kime": 11,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 376,
+    "tahmini_sure": "1 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Lahor'dan Peşaver'e dönüş, demiryoluyla. 2 Eylül 1330 = 15 Eylül 1914'te Peşaver'dedirler (metinden)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      71.58,
+      34.01
+     ],
+     [
+      71.93,
+      34.565
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 11,
+    "kime": 12,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 70,
+    "tahmini_sure": "2–3 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Peşaver (15 Eylül) ile Yenihisar (15 Kasım) arası tam iki ay, 61 gün (metinden). Ara duraklara tarih verilmediği için bu süre mesafe ve araziye göre paylaştırıldı; kalan günler konaklamalardır."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      71.93,
+      34.565
+     ],
+     [
+      71.876,
+      35.205
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 12,
+    "kime": 13,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 71,
+    "tahmini_sure": "3–4 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Swat ve Panjkora vadileri boyunca atlı yolculuk. Peşaver–Yenihisar arası toplam 61 gün (metinden)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      71.876,
+      35.205
+     ],
+     [
+      71.83,
+      35.29
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 13,
+    "kime": 14,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 10,
+    "tahmini_sure": "1 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Kısa bir ayak; Ziyaret'in yeri belirsiz."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      71.83,
+      35.29
+     ],
+     [
+      71.8,
+      35.35
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 14,
+    "kime": 15,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 7,
+    "tahmini_sure": "1 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Lavari geçidine tırmanış (3.118 m). Eylül sonunda geçit henüz açıktır."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      71.8,
+      35.35
+     ],
+     [
+      71.787,
+      35.563
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 15,
+    "kime": 16,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 24,
+    "tahmini_sure": "1–2 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Geçitten Çitral vadisine iniş."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      71.787,
+      35.563
+     ],
+     [
+      71.786,
+      35.851
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 16,
+    "kime": 17,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 32,
+    "tahmini_sure": "1–2 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Çitral nehri boyunca vadi yolu."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      71.786,
+      35.851
+     ],
+     [
+      70.9,
+      36.93
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 17,
+    "kime": 18,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 144,
+    "tahmini_sure": "6–8 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Baharak Bedahşan'daki yerse Dorah geçidi üzerinden; yer belirsiz olduğu için süre de belirsizdir."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      70.9,
+      36.93
+     ],
+     [
+      73.47,
+      36.98
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 18,
+    "kime": 19,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 228,
+    "tahmini_sure": "9–12 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Vahan koridoru boyunca Penç nehri vadisi; yükseklik ve Ekim soğuğu yürüyüşü yavaşlatır."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      73.47,
+      36.98
+     ],
+     [
+      74.49,
+      37.09
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 19,
+    "kime": 20,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 91,
+    "tahmini_sure": "4–6 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Vahan'ın doğu ucundan Vahcir geçidine (yaklaşık 4.900 m). Yolculuğun en zor bölümü olmalı."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      74.49,
+      37.09
+     ],
+     [
+      74.95,
+      37.25
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 20,
+    "kime": 21,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 44,
+    "tahmini_sure": "1–2 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Geçitten Tağdumbaş Pamiri'ne iniş."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      74.95,
+      37.25
+     ],
+     [
+      75.1,
+      37.42
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 21,
+    "kime": 22,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 23,
+    "tahmini_sure": "1 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Tağdumbaş vadisinde bir konak."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      75.1,
+      37.42
+     ],
+     [
+      75.227,
+      37.775
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 22,
+    "kime": 23,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 41,
+    "tahmini_sure": "1–2 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Vadi boyunca Taşkurgan'a."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      75.227,
+      37.775
+     ],
+     [
+      75.42,
+      38.06
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 23,
+    "kime": 24,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 36,
+    "tahmini_sure": "2 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Taşkurgan'dan Çiçeklik yaylasına tırmanış."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      75.42,
+      38.06
+     ],
+     [
+      75.75,
+      38.45
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 24,
+    "kime": 25,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 52,
+    "tahmini_sure": "2–3 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Pamir'den ovaya inen dağ yolu; Kaşıkçıbeli'nin yeri belirsiz."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      75.75,
+      38.45
+     ],
+     [
+      76.17,
+      38.93
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 25,
+    "kime": 26,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 65,
+    "tahmini_sure": "2–3 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Ovaya iniş. Yenihisar'a 2 Teşrin-i Sani 1330 = 15 Kasım 1914'te varılır (metinden)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.17,
+      38.93
+     ],
+     [
+      75.99,
+      39.47
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 26,
+    "kime": 27,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 62,
+    "tahmini_sure": "2 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Ova yolu, günde 30 km kadar. Heyet Yenihisar'da bir süre kalır; Kaşgar'a varış günü metinde yok."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      75.99,
+      39.47
+     ],
+     [
+      74.85,
+      37.45
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 27,
+    "kime": 28,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 246,
+    "tahmini_sure": "13 gün",
+    "sure_dayanagi": "metinden",
+    "sure_gerekcesi": "Kaşgar'dan 1 Nisan 1331 = 14 Nisan 1915'te çıkılır, 14 Nisan 1331 = 27 Nisan 1915'te yakalanılır. Kalın kar yürüyüşü yavaşlatır."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      74.85,
+      37.45
+     ],
+     [
+      75.227,
+      37.775
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 28,
+    "kime": 29,
+    "tur": "esir sevki",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 49,
+    "tahmini_sure": "1–2 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Esir olarak Taşkurgan'a geri getirilirler."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      75.227,
+      37.775
+     ],
+     [
+      69.28,
+      41.31
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 29,
+    "kime": 30,
+    "tur": "esir sevki",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 644,
+    "tahmini_sure": "3–5 hafta",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Güzergâh metinde yok. Nisan sonunda Taşkurgan'da, Mayıs'ta Taşkent'tedirler (metinden). Büyük olasılıkla Pamir üzerinden Fergana'ya, oradan trenle."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      69.28,
+      41.31
+     ],
+     [
+      79.07,
+      45.12
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 30,
+    "kime": 31,
+    "tur": "esir sevki",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 899,
+    "tahmini_sure": "3–4 hafta",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Taşkent'te hapisten çıkış Haziran 1331 (metinden), Kapal'a varış 1915 yazı. Dönemde Taşkent–Yedisu arasında demiryolu yoktu; posta yoluyla."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      79.07,
+      45.12
+     ],
+     [
+      79.91,
+      45.41
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 31,
+    "kime": 32,
+    "tur": "esir sevki",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 73,
+    "tahmini_sure": "2–3 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Kapal ile Sarkand arası kısa bir yol. Yedisu'daki esaret toplam 1 yıl 3 ay (metinden)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      79.91,
+      45.41
+     ],
+     [
+      81.32,
+      43.91
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 32,
+    "kime": 33,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 201,
+    "tahmini_sure": "1–2 hafta",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "1 Ağustos 1332 = 14 Ağustos 1916'da Sarkand'dan kaçış (metinden). Kaçak olarak Çin sınırına; Kulca'da bir ay saklanırlar (metinden)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      81.32,
+      43.91
+     ],
+     [
+      80.4,
+      42.85
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 33,
+    "kime": 34,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 139,
+    "tahmini_sure": "1 hafta",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Kulca'dan Ağustos–Eylül'de ayrılırlar, Kırgızlara Kasım ortasında katılırlar (metinden); arada geçen yaklaşık iki ayın ne kadarı yolda geçti bilinmiyor."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      80.4,
+      42.85
+     ],
+     [
+      82.96,
+      41.72
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 34,
+    "kime": 35,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 245,
+    "tahmini_sure": "2–4 hafta",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Tanrı Dağları kışın aşılır; Kuçar'a 1917 başında varılır (metinden)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      82.96,
+      41.72
+     ],
+     [
+      81.7,
+      39.4
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 35,
+    "kime": 36,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 279,
+    "tahmini_sure": "7–10 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Kuça'dan Hoten deryası yatağı boyunca çöl yolu; kervanlar Kuça–Hoten arasını 15–20 günde alırdı."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      81.7,
+      39.4
+     ],
+     [
+      79.93,
+      37.11
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 36,
+    "kime": 37,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 298,
+    "tahmini_sure": "7–10 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Çölün güney yarısı, Hoten'e varış."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      79.93,
+      37.11
+     ],
+     [
+      87.62,
+      43.83
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 37,
+    "kime": 38,
+    "tur": "güzergâh bilinmiyor",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 990,
+    "tahmini_sure": "5–8 hafta",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Güzergâh metinde yok. Aksu ve Turfan üzerinden kervan yolu 1.500 km'yi aşar."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      87.62,
+      43.83
+     ],
+     [
+      93.02,
+      43.6
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 38,
+    "kime": 39,
+    "tur": "kara",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 435,
+    "tahmini_sure": "2–3 hafta",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Urumçi'den Tanrı Dağları'nın kuzey eteğiyle Barköl'e kervan yolu."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      93.02,
+      43.6
+     ],
+     [
+      121.47,
+      31.23
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 39,
+    "kime": 40,
+    "tur": "güzergâh bilinmiyor",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 2844,
+    "tahmini_sure": "2–3 ay",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Güzergâh metinde yok. Hami ve Gansu üzerinden kervanla demiryolu başına, sonra trenle; Şanghay'a 29 Haziran 1918'de varılır (metinden)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      121.47,
+      31.23
+     ],
+     [
+      9.99,
+      53.55
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 40,
+    "kime": 41,
+    "tur": "güzergâh bilinmiyor",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 8522,
+    "tahmini_sure": "6–7 hafta",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "1 Nisan 1920'de Şanghay'dan Japon vapuruyla çıkılır (metinden). Hint Okyanusu ve Süveyş üzerinden deniz yolu kuş uçuşunun iki katından uzundur."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      9.99,
+      53.55
+     ],
+     [
+      28.98,
+      41.01
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 41,
+    "kime": 42,
+    "tur": "güzergâh bilinmiyor",
+    "kol": "Ana grup (Adil Hikmet)",
+    "mesafe_km": 1987,
+    "tahmini_sure": "1–2 hafta (yol)",
+    "sure_dayanagi": "metinden",
+    "sure_gerekcesi": "Hamburg'a 1920 baharında varılır, İstanbul'a dönüş 10 Mart 1921 (metinden): arada yaklaşık 10 ay geçer. Yolun kendisi metinde yok; trenle 1–2 hafta."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      81.32,
+      43.91
+     ],
+     [
+      116.4,
+      39.9
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 33,
+    "kime": 43,
+    "tur": "güzergâh bilinmiyor",
+    "kol": "Emrullah Bey",
+    "mesafe_km": 2915,
+    "tahmini_sure": "2–3 ay",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Güzergâh metinde yok. Kulca'dan Pekin'e kervan ve tren yolu; Emrullah Bey 1916 sonbaharında gönderilir (metinden)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      116.4,
+      39.9
+     ],
+     [
+      69.17,
+      34.53
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 43,
+    "kime": 44,
+    "tur": "güzergâh bilinmiyor",
+    "kol": "Emrullah Bey",
+    "mesafe_km": 4176,
+    "tahmini_sure": "bilinmiyor",
+    "sure_dayanagi": "bilinmiyor",
+    "sure_gerekcesi": "Pekin'den Afganistan'a nasıl ve ne zaman geçtiği metinde yok. 1916 sonbaharı ile 1918–1919 arası."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      69.17,
+      34.53
+     ],
+     [
+      64.42,
+      39.77
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 44,
+    "kime": 45,
+    "tur": "güzergâh bilinmiyor",
+    "kol": "Emrullah Bey",
+    "mesafe_km": 719,
+    "tahmini_sure": "bilinmiyor",
+    "sure_dayanagi": "bilinmiyor",
+    "sure_gerekcesi": "Metin yalnızca 'Türkistan' der; yol ve süre yok."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      64.42,
+      39.77
+     ],
+     [
+      41.64,
+      41.64
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 45,
+    "kime": 46,
+    "tur": "güzergâh bilinmiyor",
+    "kol": "Emrullah Bey",
+    "mesafe_km": 1926,
+    "tahmini_sure": "1–2 hafta",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Buhara'dan Krasnovodsk'a trenle, Hazar'ı vapurla, Bakü'den Batum'a trenle. Emrullah Bey 19 Temmuz 1919'da İstanbul'dadır (metinden)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      41.64,
+      41.64
+     ],
+     [
+      39.72,
+      41
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 46,
+    "kime": 47,
+    "tur": "deniz",
+    "kol": "Emrullah Bey",
+    "mesafe_km": 175,
+    "tahmini_sure": "1 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Batum'dan Trabzon'a kısa bir vapur yolu."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      39.72,
+      41
+     ],
+     [
+      28.98,
+      41.01
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 47,
+    "kime": 48,
+    "tur": "deniz",
+    "kol": "Emrullah Bey",
+    "mesafe_km": 901,
+    "tahmini_sure": "2–3 gün",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Karadeniz kıyısı boyunca vapurla. İstanbul'a varış 19 Temmuz 1919 (metinden)."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      121.47,
+      31.23
+     ],
+     [
+      126.65,
+      45.75
+     ]
+    ]
+   },
+   "properties": {
+    "kimden": 40,
+    "kime": 49,
+    "tur": "güzergâh bilinmiyor",
+    "kol": "Selim Sami ve İbrahim Bey",
+    "mesafe_km": 1675,
+    "tahmini_sure": "1 hafta",
+    "sure_dayanagi": "tahmin",
+    "sure_gerekcesi": "Şanghay'dan 31 Mart 1920'de ayrılırlar (metinden). Vapur ve Güney Mançurya demiryoluyla Harbin'e yaklaşık bir hafta."
+   }
+  }
+ ]
+}
